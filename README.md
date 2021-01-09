@@ -6,7 +6,7 @@
 
 ### [Get if free at Github Marketplace ↗](https://github.com/marketplace/octostats-scoreboard)
 
-or just go to the [website ↗](https://octostats.netlify.app/) directly.
+or just go to the [website](https://octostats.netlify.app/) directly.
 
 ### Intro
 
