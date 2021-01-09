@@ -13,15 +13,15 @@
 
 or just go to the [website](https://octostats.netlify.app/) directly.
 
-### Intro
+### What you get:
 
-With Octostats you will get all repo stats in one view. You can easily navigate between the dashboard and details
-on individual repositories. You can also see aggregated totals for all repositories.
+- 📊 &nbsp; **Unified overview of stats** &mdash; with Octostats you will get all repo stats in one view. You can easily navigate between the dashboard and details
+on individual repositories. You can get aggregated totals for all repositories, which is not available on Github.
 
-During authentication, you can choose if you wan to include organization repos or not. After authentication, you
+- 🧭 &nbsp; **Choose your experience** &mdash; During authentication, you can choose if you wan to include organization repos or not. After authentication, you
 can also toggle specific repositories on/off to include or exclude them from the Octostats scoreboard.
 
-Octostats does not have a dedicated backend server. It is served by Netlify and runs in the browser communicating directly with Github API.
+- 🔐 &nbsp; **Privacy** &mdash; Octostats does not have a dedicated backend server. It is served by Netlify and runs in the browser communicating directly with Github API.
 Application developer never sees any of your data. Netlify handles exchange of authentication token during log in.
 
 ### Issues and Feature Requests 💬 🗯️ 🤔
