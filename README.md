@@ -28,6 +28,8 @@ Application developer never sees any of your data. Netlify handles exchange of a
 
 If you have any issues using Octostats, use this repository as a place to submit issues and feature requests.
 
+**[Go to issues](https://github.com/MobileFirstLLC/octostats-issues/issues)**
+
 ### Screenshots
 
 **Login view**
