@@ -4,7 +4,9 @@
 
 ### Octostats is a scoreboard for you public Github repositories.
 
-**[Get if free at Github Marketplace ↗](https://github.com/marketplace/octostats-scoreboard)** or just go to the [website ↗](https://octostats.netlify.app/) directly.
+###**[Get if free at Github Marketplace ↗](https://github.com/marketplace/octostats-scoreboard)** 
+
+or just go to the [website ↗](https://octostats.netlify.app/) directly.
 
 ### Intro
 
