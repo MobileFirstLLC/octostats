@@ -6,7 +6,9 @@
 
 <br/>
 
-### [» Get if free at Github Marketplace « &nbsp; ↗](https://github.com/marketplace/octostats-scoreboard)
+<p align="center">
+<a href="https://github.com/marketplace/octostats-scoreboard"><h3>Get if free at Github Marketplace &nbsp; ↗</h3></a>
+</p>
 
 <br/>
 
