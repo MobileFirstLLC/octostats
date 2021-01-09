@@ -13,7 +13,7 @@
 
 or just go to the [website](https://octostats.netlify.app/) directly.
 
-### What you get:
+### What You'll Get
 
 - 📊 &nbsp; **Unified overview of stats** &mdash; with Octostats you will get all repo stats in one view. You can easily navigate between the dashboard and details
 on individual repositories. You also get aggregated totals for all repositories, which is not available on Github.
