@@ -6,9 +6,9 @@
 
 <br/>
 
-<p align="center">
-<a href="https://github.com/marketplace/octostats-scoreboard"><h3>Get if free at Github Marketplace &nbsp; ↗</h3></a>
-</p>
+<a href="https://github.com/marketplace/octostats-scoreboard">
+<h3 align="center">Get if free at Github Marketplace &nbsp; ↗</h3>
+</a>
 
 <br/>
 
