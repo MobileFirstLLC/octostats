@@ -8,9 +8,9 @@
 
 
 <h3 align="center"
-    <a href="https://github.com/marketplace/octostats-scoreboard">
-        Get if free at Github Marketplace &nbsp; ↗
-    </a>
+<a href="https://github.com/marketplace/octostats-scoreboard">
+Get if free at Github Marketplace &nbsp; ↗
+</a>
 </h3>
 
 <br/>
