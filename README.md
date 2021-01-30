@@ -40,7 +40,7 @@ If you have any issues using Octostats, use this repository as a place to submit
 
 This scoreboard gives you an overview of all activity
 
-![img](https://marketplace-screenshots.githubusercontent.com/8823/184cb100-492c-11eb-930a-bb2435b3e609?auto=webp&format=jpeg&width=1280)
+![img](https://marketplace-screenshots.githubusercontent.com/8823/8ccd4b00-5fd1-11eb-8848-ae4487421ec1?auto=webp&format=jpeg&width=1280)
 
 **Repository details**
 
