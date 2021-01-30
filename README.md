@@ -6,12 +6,8 @@
 
 <br/>
 
+<h3 align="center"><a href="https://octostats.netlify.app/">Go to Octostats app &nbsp; ↗</a></h3>
 
-<h3 align="center"><a href="https://github.com/marketplace/octostats-scoreboard">Set it up free at Github Marketplace &nbsp; ↗</a></h3>
-
-<br/>
-
-or just go to the [website](https://octostats.netlify.app/) directly.
 
 ### What You'll Get
 
