@@ -20,11 +20,15 @@ can also toggle specific repositories on/off to include or exclude them from the
 - 🔐 &nbsp; **Privacy** &mdash; Octostats does not have a dedicated backend server. It is served by Netlify and runs in the browser communicating directly with Github API.
 Application developer never sees any of your data. Netlify handles exchange of authentication token during log in.
 
+---
+
 ### Issues and Feature Requests 💬 🗯️ 🤔
 
 If you have any issues using Octostats, use this repository as a place to submit issues and feature requests.
 
 **[Go to issues](https://github.com/MobileFirstLLC/octostats-issues/issues)**
+
+---
 
 ### Screenshots
 
